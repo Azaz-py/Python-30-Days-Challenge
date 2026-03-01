@@ -58,7 +58,7 @@ This challenge documents my journey from beginner to building structured, real-w
     │   ├── manager.py
     │   ├── database.py
     │   └── Password.json
-    ├── Day_12_ToDo_List_Manager(JSON)/
+    ├── Day_12_ToDo_List_Manager(JSON)
     │   ├── main.py
     │   ├── functions.py
     │   ├── summary.py
